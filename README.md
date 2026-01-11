@@ -2,7 +2,7 @@
 Image-to-Image Translation with cGAN (pix2pix)
 
 Task Overview
-This project is part of the Generative AI Internship at **Prodigy Infotech**.
+This project is part of the Generative AI Internship at Prodigy Infotech.
 The objective of Task-04 is to implement an image-to-image translation model using a conditional GAN (pix2pix).
 
 ---
